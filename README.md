@@ -7,7 +7,7 @@ Corpus PC-GITA: Conjunto de datos equilibrado creado por el Grupo de Investigaci
 # Consideraciones adicionales
 El proyecto está organizado en las siguientes carpetas principales:
 
-📁 Entrenamiento de los Modelos:
+📁 Modelos:
 Esta carpeta contiene los notebooks desarrollados en Python, utilizando el formato de Jupyter Notebooks para organizar las etapas en celdas, lo que facilita su ejecución y comprensión.  Incluye el entrenamiento de los modelos de aprendizaje automático propuestos, como ADA Boost, Random Forest, Gradient Boosting y Bagging, entre otros. Los modelos fueron entrenados con los subconjuntos de datos generados mediante los métodos de selección de características (CHI², Matriz de Correlación y Extra Tree), aplicados a los siete conjuntos originales: Vocal A, Vocal E, Vocal I, Vocal O, Vocal U, Todas las Vocales juntas y Parkinsons. 
 
 📁 Archivos Adicionales:
