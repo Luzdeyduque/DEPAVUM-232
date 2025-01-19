@@ -4,7 +4,7 @@ Este proyecto de grado para optar al título de Ingeniería Electrónica en la U
 Oxford Parkinson's Disease Detection Dataset (Parkinsons): Conjunto de datos desbalanceado que incluye características extraídas de 195 grabaciones de voz de 31 pacientes, de los cuales 23 tienen Parkinson y 8 son controles sanos (Little M., 2007). Este dataset es ampliamente utilizado como referencia en investigaciones relacionadas, aunque fue desarrollado con hablantes angloparlantes.
 
 Corpus PC-GITA: Conjunto de datos equilibrado creado por el Grupo de Investigación en Telecomunicaciones Aplicadas (GITA) de la Universidad de Antioquia. Incluye grabaciones de 50 pacientes diagnosticados con Parkinson y 50 controles sanos, con igual distribución por género y un rango de edades representativo. Este corpus se enfoca en hablantes de español, siendo particularmente relevante para nuestro contexto lingüístico.
-# Detección del Parkinson mediante la voz usando técnicas de Machine Learning
+# Consideraciones adicionales
 El proyecto está organizado en las siguientes carpetas principales:
 
 📁 Entrenamiento de los Modelos:
