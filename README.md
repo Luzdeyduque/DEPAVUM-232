@@ -10,5 +10,5 @@ El proyecto está organizado en las siguientes carpetas principales:
 📁 **Modelos**:
 Esta carpeta contiene los notebooks desarrollados en Python, utilizando el formato de Jupyter Notebooks para organizar las etapas en celdas, lo que facilita su ejecución y comprensión.  Incluye el entrenamiento de los modelos de aprendizaje automático propuestos, como ADA Boost, Random Forest, Gradient Boosting y Bagging, entre otros. Los modelos fueron entrenados con los subconjuntos de datos generados mediante los métodos de selección de características (CHI², Matriz de Correlación y Extra Tree), aplicados a los siete conjuntos originales: Vocal A, Vocal E, Vocal I, Vocal O, Vocal U, Todas las Vocales juntas y Parkinsons. 
 
-📁 **Archivos Adicionales**:
+📁 **Recopilación de los resultados**:
 En esta carpeta se encuentran recursos complementarios relacionados con el proyecto, incluyendo archivos con las características más relevantes seleccionadas para cada modelo, los hiperparámetros utilizados y los resultados obtenidos de todos los subconjuntos de datos.
